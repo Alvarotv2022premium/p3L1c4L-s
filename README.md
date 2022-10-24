@@ -24,16 +24,6 @@ http://119395251293320456.niceapy.xyz:80/movie/fc08257/8925480810/320456.mkv
 http://119395251293320457.niceapy.xyz:80/movie/fc08257/8925480810/320457.mkv
 
 
-#EXTINF:0, Animales fantasticos 3
-#EXTGRP:2022
-http://119395251293320461.niceapy.xyz:80/movie/fc08257/8925480810/320461.mkv
-
-
-#EXTINF:0, pelicula
-#EXTGRP:2022
-http://live.easy24dar.tk
-
-
 #EXTINF:0, Animales fantasticos los
 #EXTGRP:2022
 http://119395251293320462.niceapy.xyz:80/movie/fc08257/8925480810/320462.mkv
