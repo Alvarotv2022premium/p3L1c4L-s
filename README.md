@@ -1,6 +1,7 @@
 #EXTM3U
 
 #EXTINF:0, ESTRENOS 2022
+#EXTGRP:2022
 http://635726351646147201.nicesbot.xyz/get.php?username=fc08257&password=8925480810&type=m3u_plus
 
 #EXTINF:0, Aguas Profundas
