@@ -1,8 +1,24 @@
 #EXTM3U
 
-#EXTINF:0, ESTRENOS 2022
+#EXTINF:0, No exit
 #EXTGRP:2022
-http://635726351646147201.nicesbot.xyz/get.php?username=fc08257&password=8925480810&type=m3u_plus
+http://teamnextlevel.xyz:25461/movie/MigdalyFB/YfD9jQrt65/202769.mkv
+
+#EXTINF:0, 3 Demons
+#EXTGRP:2022
+http://teamnextlevel.xyz:25461/movie/MigdalyFB/YfD9jQrt65/217296.mp4
+
+#EXTINF:0, Terror no te prairie
+#EXTGRP:2022
+http://teamnextlevel.xyz:25461/movie/MigdalyFB/YfD9jQrt65/216642.mkv
+
+#EXTINF:0, Escape The field
+#EXTGRP:2022
+http://teamnextlevel.xyz:25461/movie/MigdalyFB/YfD9jQrt65/215751.mkv
+
+#EXTINF:0, Titanic 666
+#EXTGRP:2022
+http://teamnextlevel.xyz:25461/movie/MigdalyFB/YfD9jQrt65/208032.mkv
 
 #EXTINF:0, Aguas Profundas
 #EXTGRP:2022
