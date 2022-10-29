@@ -34,14 +34,14 @@ http://line.danoli101.com:8080//movie/Fran/12345/11511.mp4
 http://line.danoli101.com:8080//movie/Fran/12345/11513.mp4
 
 
-#EXTINF:0, Sin Resñiro
+#EXTINF:0, Sin Respiro
 #EXTGRP:2022
 http://line.danoli101.com:8080//movie/Fran/12345/11514.mp4
 
 
 #EXTINF:0,  Amarrados al Amor
 #EXTGRP:2022
-http://119395251293320455.niceapy.xyz:80/movie/fc08257/8925480810/320455.mkv
+http://line.danoli101.com:8080//movie/Fran/12345/11516.mp4
 
 #EXTINF:0, Ambulance plan huida
 #EXTGRP:2022
