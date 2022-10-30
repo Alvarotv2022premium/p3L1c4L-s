@@ -10,10 +10,6 @@ http://line.danoli101.com:8080//movie/Fran/12345/11501.mp4
 #EXTGRP:2022
 http://line.danoli101.com:8080//movie/Fran/12345/11502.mp4
 
-#EXTINF:0, Ant Man
-#EXTGRP: Clasica
-http://teamnextlevel.xyz:25461/movie/MigdalyFB/YfD9jQrt65/202769.mkv
-
 #EXTINF:0, La Matanza de Texas
 #EXTGRP:2022
 http://line.danoli101.com:8080//movie/Fran/12345/11506.mp4
@@ -103,18 +99,18 @@ http://line.danoli101.com:8080//movie/Fran/12345/11544.mp4
 http://line.danoli101.com:8080//movie/Fran/12345/11542.mp4
 
 
-#EXTINF:0, Despertares riders
+#EXTINF:0, Animal Attraction
 #EXTGRP:2022
-http://119395251293320483.niceapy.xyz:80/movie/fc08257/8925480810/320483.mkv
+http://line.danoli101.com:8080//movie/Fran/12345/11575.mp4
 
 
-#EXTINF:0, Despierta tigre
+#EXTINF:0, Los tipos malos
 #EXTGRP:2022
-http://119395251293320484.niceapy.xyz:80/movie/fc08257/8925480810/320484.mkv
+hhttp://line.danoli101.com:8080//movie/Fran/12345/11581.mp4
 
-#EXTINF:0, Digo un viaje salvaje
+#EXTINF:0, 40 días y 40 noches
 #EXTGRP:2022
-http://119395251293320487.niceapy.xyz:80/movie/fc08257/8925480810/320487.mkv
+http://line.danoli101.com:8080//movie/Fran/12345/11582.mp4
 
 
 #EXTINF:0, Doula
