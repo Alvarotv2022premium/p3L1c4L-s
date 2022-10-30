@@ -1,6 +1,7 @@
 #EXTM3U
 
 
+
 #EXTINF:0, Kimi
 #EXTGRP:2022
 http://line.danoli101.com:8080//movie/Fran/12345/11501.mp4
@@ -43,63 +44,63 @@ http://line.danoli101.com:8080//movie/Fran/12345/11514.mp4
 #EXTGRP:2022
 http://line.danoli101.com:8080//movie/Fran/12345/11516.mp4
 
-#EXTINF:0, Ambulance plan huida
+#EXTINF:0, El Bucle de Latham
 #EXTGRP:2022
-http://119395251293320456.niceapy.xyz:80/movie/fc08257/8925480810/320456.mkv
+http://line.danoli101.com:8080//movie/Fran/12345/11518.mp4
 
 
-#EXTINF:0, Amigos Vs Extraterrestre
+#EXTINF:0, Red
 #EXTGRP:2022
-http://119395251293320457.niceapy.xyz:80/movie/fc08257/8925480810/320457.mkv
+http://line.danoli101.com:8080//movie/Fran/12345/11523.mp4
 
 
-#EXTINF:0, Animales fantasticos los
+#EXTINF:0, La pasion de Cristo
+#EXTGRP: Clasica
+http://line.danoli101.com:8080//movie/Fran/12345/11522.mp4
+
+
+#EXTINF:0, El Callejon de las almas
 #EXTGRP:2022
-http://119395251293320462.niceapy.xyz:80/movie/fc08257/8925480810/320462.mkv
+http://line.danoli101.com:8080//movie/Fran/12345/11524.mp4
 
 
-#EXTINF:0, Batalla Freestyle
+#EXTINF:0,  El Proyecto Adam
 #EXTGRP:2022
-http://119395251293320465.niceapy.xyz:80/movie/fc08257/8925480810/320465.mkv
+http://line.danoli101.com:8080//movie/Fran/12345/11525.mp4
 
 
-#EXTINF:0,  Bigbug
+#EXTINF:0, Sin Salida
+#EXTGRP: Clasica
+http://line.danoli101.com:8080//movie/Fran/12345/11526.mp4
+
+
+#EXTINF:0, La Abuela
 #EXTGRP:2022
-http://119395251293320466.niceapy.xyz:80/movie/fc08257/8925480810/320466.mkv
+http://line.danoli101.com:8080//movie/Fran/12345/11527.mp4
 
 
-#EXTINF:0, Cangrejo Negro
+#EXTINF:0, Aguas Profundas
 #EXTGRP:2022
-http://119395251293320469.niceapy.xyz:80/movie/fc08257/8925480810/320469.mkv
+http://line.danoli101.com:8080//movie/Fran/12345/11528.mp4
 
-
-#EXTINF:0, Capitan Carver
+#EXTINF:0, Master
 #EXTGRP:2022
-http://119395251293320470.niceapy.xyz:80/movie/fc08257/8925480810/320470.mkv
+http://line.danoli101.com:8080//movie/Fran/12345/11532.mp4
 
 
-#EXTINF:0, Centauro
+#EXTINF:0, Muerte en el Nilo
 #EXTGRP:2022
-http://119395251293320472.niceapy.xyz:80/movie/fc08257/8925480810/320472.mkv
+http://line.danoli101.com:8080//movie/Fran/12345/11540.mp4
 
-#EXTINF:0, Crush
+
+#EXTINF:0, Moonshot
 #EXTGRP:2022
-http://119395251293320476.niceapy.xyz:80/movie/fc08257/8925480810/320476.mkv
+http://line.danoli101.com:8080//movie/Fran/12345/11544.mp4
 
 
-#EXTINF:0, Cyrano
-#EXTGRP:2022
-http://119395251293320477.niceapy.xyz:80/movie/fc08257/8925480810/320477.mkv
-
-
-#EXTINF:0, Dark Cloud
-#EXTGRP:2022
-http://119395251293320479.niceapy.xyz:80/movie/fc08257/8925480810/320479.mkv
-
-
-#EXTINF:0, Desaparecida sin rastro
-#EXTGRP:2022
-http://119395251293320481.niceapy.xyz:80/movie/fc08257/8925480810/320481.mkv
+#EXTINF:0, Fat Ass Zombies
+#EXTGRP: Clasica
+http://line.danoli101.com:8080//movie/Fran/12345/11542.mp4
 
 
 #EXTINF:0, Despertares riders
