@@ -3,6 +3,7 @@
 
 
 #EXTINF:0, Kimi
+
 #EXTGRP:2022
 http://line.danoli101.com:8080//movie/Fran/12345/11501.mp4
 
@@ -113,9 +114,9 @@ hhttp://line.danoli101.com:8080//movie/Fran/12345/11581.mp4
 http://line.danoli101.com:8080//movie/Fran/12345/11582.mp4
 
 
-#EXTINF:0, Doula
+#EXTINF:0, Incompatibles 2
 #EXTGRP:2022
-http://119395251293320488.niceapy.xyz:80/movie/fc08257/8925480810/320488.mkv
+http://line.danoli101.com:8080/movie/Fran/12345/11595.mp4
 
 
 #EXTINF:0, Dual
