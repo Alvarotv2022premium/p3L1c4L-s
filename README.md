@@ -47,6 +47,7 @@ http://line.danoli101.com:8080//movie/Fran/12345/11518.mp4
 
 
 #EXTINF:0, Red
+
 #EXTGRP:2022
 http://line.danoli101.com:8080//movie/Fran/12345/11523.mp4
 
@@ -119,9 +120,9 @@ http://line.danoli101.com:8080//movie/Fran/12345/11582.mp4
 http://line.danoli101.com:8080/movie/Fran/12345/11595.mp4
 
 
-#EXTINF:0, Dual
+#EXTINF:0, El Asedio de Silverton
 #EXTGRP:2022
-http://119395251293320490.niceapy.xyz:80/movie/fc08257/8925480810/320490.mkv
+http://line.danoli101.com:8080/movie/Fran/12345/11605.mp4
 
 
 #EXTINF:0, El Agente Invisible
