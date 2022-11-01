@@ -52,10 +52,6 @@ http://line.danoli101.com:8080//movie/Fran/12345/11518.mp4
 http://line.danoli101.com:8080//movie/Fran/12345/11523.mp4
 
 
-#EXTINF:0, La pasion de Cristo
-#EXTGRP: Clasica
-http://line.danoli101.com:8080//movie/Fran/12345/11522.mp4
-
 
 #EXTINF:0, El Callejon de las almas
 #EXTGRP:2022
@@ -66,10 +62,6 @@ http://line.danoli101.com:8080//movie/Fran/12345/11524.mp4
 #EXTGRP:2022
 http://line.danoli101.com:8080//movie/Fran/12345/11525.mp4
 
-
-#EXTINF:0, Sin Salida
-#EXTGRP: Clasica
-http://line.danoli101.com:8080//movie/Fran/12345/11526.mp4
 
 
 #EXTINF:0, La Abuela
@@ -96,11 +88,6 @@ http://line.danoli101.com:8080//movie/Fran/12345/11540.mp4
 http://line.danoli101.com:8080//movie/Fran/12345/11544.mp4
 
 
-#EXTINF:0, Fat Ass Zombies
-#EXTGRP: Clasica
-http://line.danoli101.com:8080//movie/Fran/12345/11542.mp4
-
-
 #EXTINF:0, Animal Attraction
 #EXTGRP:2022
 http://line.danoli101.com:8080//movie/Fran/12345/11575.mp4
@@ -125,156 +112,68 @@ http://line.danoli101.com:8080/movie/Fran/12345/11595.mp4
 http://line.danoli101.com:8080/movie/Fran/12345/11605.mp4
 
 
-#EXTINF:0, El Agente Invisible
+#EXTINF:0, Una Cita con el Pasado
 #EXTGRP:2022
-http://119395251293320493.niceapy.xyz:80/movie/fc08257/8925480810/320493.mkv
+http://line.danoli101.com:8080/movie/Fran/12345/11607.mp4
 
-
-#EXTINF:0, El Asedio de Silverton
-#EXTGRP:2022
-http://119395251293320496.niceapy.xyz:80/movie/fc08257/8925480810/320496.mkv
-
-#EXTINF:0, El hombre del Norte
-#EXTGRP:2022
-http://119395251293320497.niceapy.xyz:80/movie/fc08257/8925480810/320497.mkv
-
-
-#EXTINF:0, Elige o Muere
-#EXTGRP:2022
-http://119395251293320498.niceapy.xyz:80/movie/fc08257/8925480810/320498.mkv
-
-#EXTINF:0, El juego de las llaves
-#EXTGRP:2022
-http://119395251293320500.niceapy.xyz:80/movie/fc08257/8925480810/320500.mkv
-
-
-#EXTINF:0, El Mediador Blacklight
-#EXTGRP:2022
-http://119395251293320501.niceapy.xyz:80/movie/fc08257/8925480810/320501.mkv
-
-
-#EXTINF:0, El Monstruo Marino
-#EXTGRP:2022
-http://119395251293320503.niceapy.xyz:80/movie/fc08257/8925480810/320503.mkv
-
-
-
-#EXTINF:0, El Violin de mi Padre
-#EXTGRP:2022
-http://119395251293320510.niceapy.xyz:80/movie/fc08257/8925480810/320510.mkv
-
-
-#EXTINF:0, Encerrada
-#EXTGRP:2022
-http://119395251293320512.niceapy.xyz:80/movie/fc08257/8925480810/320512.mkv
-
-
-#EXTINF:0, Ereaser RENACER
-#EXTGRP:2022
-http://119395251293320516.niceapy.xyz:80/movie/fc08257/8925480810/320516.mkv
-
-
-#EXTINF:0, La Fortaleza 2
-#EXTGRP:2022
-http://119395251293320519.niceapy.xyz:80/movie/fc08257/8925480810/320519.mkv
-
-
-#EXTINF:0, Granizo
-#EXTGRP:2022
-http://119395251293320523.niceapy.xyz:80/movie/fc08257/8925480810/320523.mkv
-
-#EXTINF:0, Interceptor
-#EXTGRP:2022
-http://119395251293320530.niceapy.xyz:80/movie/fc08257/8925480810/320530.mkv
-
-#EXTINF:0, La Burbuja
-#EXTGRP:2022
-http://119395251293320532.niceapy.xyz:80/movie/fc08257/8925480810/320532.mkv
-
-#EXTINF:0, La caída de Alejandra
-#EXTGRP:2022
-http://119395251293320533.niceapy.xyz:80/movie/fc08257/8925480810/320533.mkv
-
-
-#EXTINF:0, La Cima
-#EXTGRP:2022
-http://119395251293320534.niceapy.xyz:80/movie/fc08257/8925480810/320534.mkv
-
-
-#EXTINF:0, Venganza a golpes
-#EXTGRP:2022
-http://119395251293320576.niceapy.xyz:80/movie/fc08257/8925480810/320576.mkv
-
-#EXTINF:0, La Matanza de Texaa
-#EXTGRP:2022
-http://119395251293320537.niceapy.xyz:80/movie/fc08257/8925480810/320537.mkv
-
-
-#EXTINF:0, La octava Clausura
-#EXTGRP:2022
-http://119395251293320538.niceapy.xyz:80/movie/fc08257/8925480810/320538.mkv
-
-
-#EXTINF:0, Los tipos malos
-#EXTGRP:2022
-http://119395251293320544.niceapy.xyz:80/movie/fc08257/8925480810/320544.mkv
 
 #EXTINF:0, Metal Lords
 #EXTGRP:2022
-http://119395251293320547.niceapy.xyz:80/movie/fc08257/8925480810/320547.mkv
+http://line.danoli101.com:8080/movie/Fran/12345/11615.mp4
 
-
-#EXTINF:0, Misión Panama
+#EXTINF:0, Osa Polar
 #EXTGRP:2022
-http://119395251293320548.niceapy.xyz:80/movie/fc08257/8925480810/320548.mkv
+http://line.danoli101.com:8080/movie/Fran/12345/11618.mp4
 
 
-#EXTINF:0, Moonfall
+#EXTINF:0, X
 #EXTGRP:2022
-http://119395251293320550.niceapy.xyz:80/movie/fc08257/8925480810/320550.mkv
+http://line.danoli101.com:8080/movie/Fran/12345/11619.mp4
 
-
-#EXTINF:0, Moonshot
+#EXTINF:0, Burbuja
 #EXTGRP:2022
-http://119395251293320551.niceapy.xyz:80/movie/fc08257/8925480810/320551.mkv
+http://line.danoli101.com:8080/movie/Fran/12345/11623.mp4
 
 
-#EXTINF:0, Muerte en el Nilo
+#EXTINF:0, Sneakerella
 #EXTGRP:2022
-http://119395251293320553.niceapy.xyz:80/movie/fc08257/8925480810/320553.mkv
+http://line.danoli101.com:8080/movie/Fran/12345/11632.mp4
 
 
-#EXTINF:0, The Batman
+#EXTINF:0, Culpa
 #EXTGRP:2022
-http://119395251293320565.niceapy.xyz:80/movie/fc08257/8925480810/320565.mkv
+http://line.danoli101.com:8080/movie/Fran/12345/11634.mp4
 
-
-#EXTINF:0, The Hunting
-#EXTGRP:2022
-http://119395251293320566.niceapy.xyz:80/movie/fc08257/8925480810/320566.mkv
-
-
-#EXTINF:0, Toscana
-#EXTGRP:2022
-http://119395251293320569.niceapy.xyz:80/movie/fc08257/8925480810/320569.mkv
-
-
-#EXTINF:0, Una Cita con el Pasado
-#EXTGRP:2022
-http://119395251293320571.niceapy.xyz:80/movie/fc08257/8925480810/320571.mkv
 
 
 #EXTINF:0, Uncharted
 #EXTGRP:2022
-http://119395251293320572.niceapy.xyz:80/movie/fc08257/8925480810/320572.mkv
+http://line.danoli101.com:8080/movie/Fran/12345/11639.mp4
 
 
-#EXTINF:0, Un día para Morir
+#EXTINF:0, The Tiger Rising
 #EXTGRP:2022
-http://119395251293320573.niceapy.xyz:80/movie/fc08257/8925480810/320573.mkv
+http://line.danoli101.com:8080/movie/Fran/12345/11641.mp4
 
 
-#EXTINF:0, Un Lugar Seguro
+#EXTINF:0, Morbius
 #EXTGRP:2022
-http://119395251293320574.niceapy.xyz:80/movie/fc08257/8925480810/320574.mkv
+http://line.danoli101.com:8080/movie/Fran/12345/11642.mp4
 
+
+#EXTINF:0, La ciudad Perdida
+#EXTGRP:2022
+http://line.danoli101.com:8080/movie/Fran/12345/11646.mp4
+
+
+#EXTINF:0, Desaparecido sin Rastro
+#EXTGRP:2022
+http://line.danoli101.com:8080/movie/Fran/12345/11649.mp4
+
+#EXTINF:0, Virus 32
+#EXTGRP:2022
+http://line.danoli101.com:8080/movie/Fran/12345/11650.mp4
+
+#EXTINF:0, Black phone
+#EXTGRP:2022
+http://line.danoli101.com:8080/movie/Fran/12345/11651.mp4
