@@ -74,6 +74,7 @@ http://line.danoli101.com:8080//movie/Fran/12345/11527.mp4
 http://line.danoli101.com:8080//movie/Fran/12345/11528.mp4
 
 #EXTINF:0, Master
+
 #EXTGRP:2022
 http://line.danoli101.com:8080//movie/Fran/12345/11532.mp4
 
@@ -127,10 +128,12 @@ http://line.danoli101.com:8080/movie/Fran/12345/11618.mp4
 
 
 #EXTINF:0, X
+
 #EXTGRP:2022
 http://line.danoli101.com:8080/movie/Fran/12345/11619.mp4
 
 #EXTINF:0, Burbuja
+
 #EXTGRP:2022
 http://line.danoli101.com:8080/movie/Fran/12345/11623.mp4
 
@@ -141,6 +144,7 @@ http://line.danoli101.com:8080/movie/Fran/12345/11632.mp4
 
 
 #EXTINF:0, Culpa
+
 #EXTGRP:2022
 http://line.danoli101.com:8080/movie/Fran/12345/11634.mp4
 
@@ -157,6 +161,7 @@ http://line.danoli101.com:8080/movie/Fran/12345/11641.mp4
 
 
 #EXTINF:0, Morbius
+
 #EXTGRP:2022
 http://line.danoli101.com:8080/movie/Fran/12345/11642.mp4
 
@@ -171,6 +176,7 @@ http://line.danoli101.com:8080/movie/Fran/12345/11646.mp4
 http://line.danoli101.com:8080/movie/Fran/12345/11649.mp4
 
 #EXTINF:0, Virus 32
+
 #EXTGRP:2022
 http://line.danoli101.com:8080/movie/Fran/12345/11650.mp4
 
